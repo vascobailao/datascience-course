@@ -10,12 +10,8 @@ This will cover a series of data science techniques (more will be added):
 
 ## Statistics
 -----
------
-
 ## Regression
 -----
------
-
 ### Simple Regression
 
 ### Multi-variate Regression
@@ -26,8 +22,6 @@ This will cover a series of data science techniques (more will be added):
 
 ## Classification
 -----
------
-
 ### SVM
 
 ### Logistic Regression
@@ -38,20 +32,12 @@ This will cover a series of data science techniques (more will be added):
 
 ## NLP
 -----
------
-
 ## Time-Series Analysis
 -----
------
-
 ## Clustering
 -----
------
-
 ## Deep Learning
 -----
------
-
 ### Keras
 
 ### Tensorflow
@@ -60,24 +46,13 @@ This will cover a series of data science techniques (more will be added):
 
 ## Recommender Systems
 -----
------
-
 ## Optimization
 -----
------
-
 ## Interpretability Methods
 -----
------
-
 ## Casual Inference
 -----
------
-
 ## Gen AI
 -----
------
-
 ## Search & Retrieval 
------
 -----
