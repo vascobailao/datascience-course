@@ -15,8 +15,11 @@ This will cover a series of data science techniques (more will be added):
 ## Feature Engineering
 ## Data Visualization
 ## Regression Techniques
-Basic: Elements of Statistical Learning
-Advanced: Introduciton to Statistical Learning
+Basic: Elements of Statistical Learning (Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie)
+
+Advanced: Introduciton to Statistical Learning (Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie)
+
+MOOC: https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning
 ### Simple Regression
 ### Multi-variate Regression
 ### Tree Methods
