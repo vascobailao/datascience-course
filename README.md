@@ -9,8 +9,12 @@ This will cover a series of data science techniques (more will be added):
 # Challenges
 
 ## Statistics
+-----
+-----
 
 ## Regression
+-----
+-----
 
 ### Simple Regression
 
@@ -18,22 +22,62 @@ This will cover a series of data science techniques (more will be added):
 
 ### Tree Methods
 
+### Ensemble Methods
+
 ## Classification
+-----
+-----
+
+### SVM
+
+### Logistic Regression
+
+### Tree Methods
+
+### Ensemble Methods
 
 ## NLP
+-----
+-----
 
 ## Time-Series Analysis
+-----
+-----
 
 ## Clustering
+-----
+-----
+
+## Deep Learning
+-----
+-----
+
+### Keras
+
+### Tensorflow
+
+### Pytorch
 
 ## Recommender Systems
+-----
+-----
 
 ## Optimization
+-----
+-----
 
 ## Interpretability Methods
+-----
+-----
 
 ## Casual Inference
+-----
+-----
 
 ## Gen AI
+-----
+-----
 
 ## Search & Retrieval 
+-----
+-----
