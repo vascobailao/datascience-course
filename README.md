@@ -6,6 +6,13 @@ This repo will serve as a collections of challenges for any person with a techni
 
 This will cover a series of data science techniques (more will be added).
 
+# Datasets:
+
+- Boston House Prices Dataset
+- Titanic Dataset
+- MTA Ridership Dataset
+- Locker Assignment
+
 # General MOOC:
 
 ML I: https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
