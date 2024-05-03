@@ -6,53 +6,34 @@ This repo will serve as a collections of challenges for any person with a techni
 
 This will cover a series of data science techniques (more will be added):
 
-# Challenges
+# Topics
 
+## Types of Learning
+## Notation
+## Theory
 ## Statistics
------
-## Regression
------
+## Feature Engineering
+## Data Visualization
+## Regression Techniques
 ### Simple Regression
-
 ### Multi-variate Regression
-
 ### Tree Methods
-
 ### Ensemble Methods
-
-## Classification
------
+## Classification Techniques
 ### SVM
-
 ### Logistic Regression
-
 ### Tree Methods
-
 ### Ensemble Methods
-
-## NLP
------
+## NLP Techniques (before LLMs)
 ## Time-Series Analysis
------
 ## Clustering
------
 ## Deep Learning
------
 ### Keras
-
 ### Tensorflow
-
 ### Pytorch
-
 ## Recommender Systems
------
 ## Optimization
------
 ## Interpretability Methods
------
 ## Casual Inference
------
 ## Gen AI
------
 ## Search & Retrieval 
------
