@@ -16,8 +16,11 @@ This will cover a series of data science techniques (more will be added).
 # General MOOC:
 
 ML I: https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
+
 ML II: https://www.deeplearning.ai/courses/machine-learning-specialization/?utm_medium=referral&utm_source=andrew-website
+
 Statistical Learning: https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning
+
 Optimization: https://shorturl.at/fyO05
 
 # Topics
