@@ -15,6 +15,8 @@ This will cover a series of data science techniques (more will be added):
 ## Feature Engineering
 ## Data Visualization
 ## Regression Techniques
+Basic: Elements of Statistical Learning
+Advanced: Introduciton to Statistical Learning
 ### Simple Regression
 ### Multi-variate Regression
 ### Tree Methods
@@ -26,8 +28,10 @@ This will cover a series of data science techniques (more will be added):
 ### Ensemble Methods
 ## NLP Techniques (before LLMs)
 ## Time-Series Analysis
+Source: Forecasting: Principles and Practice (Hyndman) https://otexts.com/fpp2/
 ## Clustering
 ## Deep Learning
+Source: The Deep Learning Book (Bengio)
 ### Keras
 ### Tensorflow
 ### Pytorch
