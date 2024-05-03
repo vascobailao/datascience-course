@@ -4,7 +4,14 @@
 
 This repo will serve as a collections of challenges for any person with a technical background to get into Data Science.
 
-This will cover a series of data science techniques (more will be added):
+This will cover a series of data science techniques (more will be added).
+
+# General MOOC:
+
+ML I: https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
+ML II: https://www.deeplearning.ai/courses/machine-learning-specialization/?utm_medium=referral&utm_source=andrew-website
+Statistical Learning: https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning
+Optimization: https://shorturl.at/fyO05
 
 # Topics
 
@@ -12,7 +19,9 @@ This will cover a series of data science techniques (more will be added):
 ## Notation
 ## Theory
 ## Statistics
+## Hypothesis Tests
 ## Feature Engineering
+## Dimensionality Reduction
 ## Data Visualization
 ## Regression Techniques
 Basic: Elements of Statistical Learning (Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie)
